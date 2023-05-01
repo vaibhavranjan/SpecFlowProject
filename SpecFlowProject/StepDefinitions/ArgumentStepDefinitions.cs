@@ -17,6 +17,7 @@ namespace SpecFlowProject.StepDefinitions
         public void GivenIAmOnMainPageOfGoogleWith(string url)
         {
             //ObjectRepository.driver.Navigate().GoToUrl(url);
+            //ObjectRepository.driver.Navigate().GoToUrl(url);
             ObjectRepository.driver.Navigate().GoToUrl(url);
         }
 
