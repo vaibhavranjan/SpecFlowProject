@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rows>
+	<Row>
+		<Severity>blocker</Severity>
+		<Hardware>Other</Hardware>
+		<Summary>Summary XML 1</Summary>
+		<Description>Description XML 1</Description>
+	</Row>
+	<Row>
+		<Severity>major</Severity>
+		<Hardware>Macintosh</Hardware>
+		<Summary>Summary XML 2</Summary>
+		<Description>Description XML 2</Description>
+	</Row>
+
+</Rows>
