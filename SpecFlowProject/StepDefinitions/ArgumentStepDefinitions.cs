@@ -18,6 +18,7 @@ namespace SpecFlowProject.StepDefinitions
         {
             //ObjectRepository.driver.Navigate().GoToUrl(url);
             //ObjectRepository.driver.Navigate().GoToUrl(url);
+            //ObjectRepository.driver.Navigate().GoToUrl(url);
             ObjectRepository.driver.Navigate().GoToUrl(url);
         }
 
