@@ -16,6 +16,7 @@ namespace SpecFlowProject.StepDefinitions
         [Given(@"I am on main page of google with ""([^""]*)""")]
         public void GivenIAmOnMainPageOfGoogleWith(string url)
         {
+            //ObjectRepository.driver.Navigate().GoToUrl(url);
             ObjectRepository.driver.Navigate().GoToUrl(url);
         }
 
