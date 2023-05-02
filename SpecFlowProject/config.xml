@@ -4,7 +4,7 @@
 		<browser>Chrome</browser>
 		<url>http://localhost:5001/</url>
 		<username>vaibhav@bugzilla.com</username>
-		<password>dob@2891</password>
+		<password></password>
 		<pageLoadTimeOut>20</pageLoadTimeOut>
 	</Test>
 </Environment>
